@@ -1,0 +1,23 @@
+{
+  "name": "cicd-test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mepunit/node-cicd-test-1.git"
+  },
+  "author": "Punit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mepunit/node-cicd-test-1/issues"
+  },
+  "homepage": "https://github.com/mepunit/node-cicd-test-1#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
